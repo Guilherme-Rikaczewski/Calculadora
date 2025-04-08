@@ -10,7 +10,7 @@ Em virtude disso, optou-se por não seguir a convenção snake case, tradicional
 - PySide6 (Qt for Python)
 
 ## Estrutura do Projeto
-
+```
 ├── dist/
 │   └── Calculadora.exe     # Executável gerado
 │
@@ -26,7 +26,7 @@ Em virtude disso, optou-se por não seguir a convenção snake case, tradicional
 ├── enviroments.py          # Variáveis e configurações
 │
 └── requirements.txt        # Lista de dependências do projeto
-
+```
 
 ## Observação
 - Este projeto possui fins didáticos e não tem a pretensão de ser uma calculadora completa.
